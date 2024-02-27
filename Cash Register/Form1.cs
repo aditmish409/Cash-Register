@@ -11,7 +11,7 @@ using System.Media;
 namespace Cash_Register
 {
     public partial class Form1 : Form
-    {
+    { 
         double sneakerPrice = 120;
         double slidePrice = 80;
         double bootPrice = 100;
